@@ -15,3 +15,7 @@
 > Com um banco de dados dedicado, os usuários podem registrar todas as suas transações financeiras de forma sistemática e categorizá-las de acordo com suas preferências. Isso permite uma análise detalhada dos padrões de gastos ao longo do tempo, identificando áreas onde é possível economizar ou otimizar recursos.
 
 ![](./images/logic-model.png)
+
+
+
+> agradecimento especiais a @Midssouza e a @oliviasmim.
